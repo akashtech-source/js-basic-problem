@@ -42,3 +42,21 @@ Input: duplicate([1, 3, 6, 1, 9, 3, 6]) Output: [1, 9, 3, 6]
 ## 10. How would you count how many word are in a string?
 
 Input: "I Love Bangladesh" Output: 3
+
+## 11. Write a linear search function that have two parameter like an array and a string?
+
+Input: linearSearch(['a', 'b', 'c', 'd', 'e'], 'c') Output: 2 or not found.
+
+## 12. You have a number (1 - 100), lets show how many numbers are divisable by 3, and 5 and both (3 & 5).
+
+Input: div(100)
+
+## 13. How to find a falsy value and remove from the array.
+
+## 14. How to find a falsy value and remove from the Object.
+
+## 15. Write a function that return the sum of array.
+
+## 16. You have to book a hotel room. Booking system is: $100 per day for first 10 day , $80 perday for second 10 day and $50 perday for next day to nth day . Now write a function and generate your hotel cost.
+
+Input: hotelCost(47) Output: 3150.
