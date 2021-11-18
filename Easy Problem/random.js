@@ -13,8 +13,8 @@ console.log(random(1, 6));
 
 // METHOD 2
 
-function getRandom(num) {
-  const number = Math.floor(Math.random() * num) + 1;
-  return number;
-}
-console.log(getRandom(6));
+// function getRandom(num) {
+//   const number = Math.floor(Math.random() * num) + 1;
+//   return number;
+// }
+// console.log(getRandom(6));
