@@ -1,4 +1,4 @@
-# This is General Type Of Problem Solving File Beginner Only.
+# This is General Type Of Problem Solving Before Jump In Hackerrank or Leetcode.
 
 ## Every question and answer is provided in the file. You can see only the question here, but if you want the solution then explore the file.
 
@@ -56,6 +56,8 @@ Input: div(100)
 ## 14. How to find a falsy value and remove from the Object.
 
 ## 15. Write a function that return the sum of array.
+
+Input: [1, 2, 3, 4, 5] Output: 15
 
 ## 16. You have to book a hotel room. Booking system is: $100 per day for first 10 day , $80 perday for second 10 day and $50 perday for next day to nth day . Now write a function and generate your hotel cost.
 
