@@ -1,4 +1,4 @@
-# This is General Type Of Problem Solving Before Jump In Hackerrank or Leetcode.
+# This is General Type Of Problem Solving Before Jumps Into Hackerrack or Leetcode.
 
 ## Every question and answer is provided in the file. You can see only the question here, but if you want the solution then explore the file.
 
